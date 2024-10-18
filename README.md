@@ -44,7 +44,7 @@ Negotiation
 [v] Never Split The Difference [375 pages]
 
 Story-Telling
-First Person Singular by Haruki Murakami [160 pages]
+[  ] First Person Singular by Haruki Murakami [160 pages]
 
 Biotech/Pharma
 [  ] The Pharmagellan Guide to Analyzing Biotech Clinical Trials [292 pages]
